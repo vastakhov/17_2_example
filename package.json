@@ -1,0 +1,22 @@
+{
+  "name": "17_2_example",
+  "version": "1.0.0",
+  "description": "SF 17_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vastakhov/17_2_example.git"
+  },
+  "author": "Vladimir Astakhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vastakhov/17_2_example/issues"
+  },
+  "homepage": "https://github.com/vastakhov/17_2_example#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
